@@ -1,0 +1,34 @@
+
+
+.buttonBox button{
+    margin: 5px;
+}
+
+.hidden{
+    display: none;
+}
+
+.coverImage{
+    display: flex;
+}
+
+.iconBox div{
+    width: 100px;
+    height: 100px;
+    background-color: rgba(240, 234, 234, 0.87);
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    border: 1px dashed #aaa;
+    cursor: pointer;
+}
+
+.iconBox p{
+    line-height: 15px;
+}
+
+.image{
+    margin-left: 50px;
+    width: 300px;
+}

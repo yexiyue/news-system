@@ -1,0 +1,9 @@
+.demoEditor{
+  height: 300px;
+}
+
+.wrapper{
+  margin-top: 20px;
+  height: 400px;
+  border: 1px solid #eee;
+}

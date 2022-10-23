@@ -1,0 +1,43 @@
+{
+  "name": "react-news-manage-system",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "antd": "^4.23.5",
+    "axios": "^1.1.2",
+    "braft-editor": "^2.3.9",
+    "draft-js": "^0.11.7",
+    "draftjs-to-html": "^0.9.1",
+    "echarts": "^5.4.0",
+    "html-to-draftjs": "^1.5.0",
+    "mobx": "^6.6.2",
+    "mobx-react": "^7.5.3",
+    "nprogress": "^0.2.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-draft-wysiwyg": "^1.15.0",
+    "react-router-dom": "^6.4.2",
+    "react-tsparticles": "^2.3.2",
+    "sass": "^1.55.0",
+    "tsparticles": "^2.3.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.1.0",
+    "@ant-design/icons": "^4.7.0",
+    "@types/draft-js": "^0.11.9",
+    "@types/draftjs-to-html": "^0.8.1",
+    "@types/html-to-draftjs": "^1.4.0",
+    "@types/nprogress": "^0.2.0",
+    "@types/react-draft-wysiwyg": "^1.13.4",
+    "typescript": "^4.6.4",
+    "vite": "^3.1.0"
+  }
+}
